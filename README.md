@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![Gustavo Github Stats](https://github-readme-stats.vercel.app/api?username=GustavoOliveira133)
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ## Tecnologias que estou utilizando atualmente:
 <div style = "display: inline_block"><br/>
