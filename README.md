@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.mooc.org%2Fhubfs%2Fapplications-of-computer-programming.jpg&imgrefurl=https%3A%2F%2Fwww.mooc.org%2Fblog%2Fapplications-of-computer-programming&tbnid=AeIKZoH547BozM&vet=12ahUKEwiYzKOYi8f6AhX3mZUCHeKsAl4QMygCegUIARDHAQ..i&docid=VYWntJg8sOrb5M&w=724&h=483&q=programming&client=safari&ved=2ahUKEwiYzKOYi8f6AhX3mZUCHeKsAl4QMygCegUIARDHAQ)](https://github.com/GustavoOliveira133)
+
+![Gustavo Github Stats](https://github-readme-stats.vercel.app/api?username=GustavoOliveira133&count_private=true)
